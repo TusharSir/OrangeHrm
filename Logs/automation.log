@@ -1,0 +1,26 @@
+2023-03-28 00:26:35,846 :INFO : test_login :******************Test_001_Login**************
+2023-03-28 00:26:35,846 :INFO : test_login :******************Verifying Home Page**************
+2023-03-28 00:30:29,424 :INFO : test_login_001 :******************test_login_001**************
+2023-03-28 00:30:29,424 :INFO : test_login_001 :******************Verifying Login**************
+2023-03-28 00:30:31,425 :INFO : test_login_001 :******************Enter UserName **************
+2023-03-28 00:30:31,545 :INFO : test_login_001 :******************Enter Password **************
+2023-03-28 00:30:31,587 :INFO : test_login_001 :******************Click On Login button **************
+2023-03-28 00:30:38,530 :INFO : test_login_001 :****************** Click On Logout button **************
+2023-03-28 00:30:38,581 :INFO : test_login_001 :******************test_login_001 Passed **************
+2023-03-28 00:30:39,860 :INFO : test_login_001 :******************test_login_001 Execution Completed **************
+2023-03-28 00:31:12,414 :INFO : test_login_001 :******************test_login_001**************
+2023-03-28 00:31:12,414 :INFO : test_login_001 :******************Verifying Login**************
+2023-03-28 00:31:14,423 :INFO : test_login_001 :******************Enter UserName **************
+2023-03-28 00:31:14,504 :INFO : test_login_001 :******************Enter Password **************
+2023-03-28 00:31:14,535 :INFO : test_login_001 :******************Click On Login button **************
+2023-03-28 00:31:22,122 :INFO : test_login_001 :****************** Click On Logout button **************
+2023-03-28 00:31:22,172 :INFO : test_login_001 :******************test_login_001 Passed **************
+2023-03-28 00:31:23,100 :INFO : test_login_001 :******************test_login_001 Execution Completed **************
+2023-03-28 00:32:19,160 :INFO : test_login_001 :******************test_login_001**************
+2023-03-28 00:32:19,161 :INFO : test_login_001 :******************Verifying Login**************
+2023-03-28 00:32:21,163 :INFO : test_login_001 :******************Enter UserName **************
+2023-03-28 00:32:21,285 :INFO : test_login_001 :******************Enter Password **************
+2023-03-28 00:32:21,327 :INFO : test_login_001 :******************Click On Login button **************
+2023-03-28 00:32:28,649 :INFO : test_login_001 :****************** Click On Logout button **************
+2023-03-28 00:32:28,712 :INFO : test_login_001 :******************test_login_001 Passed **************
+2023-03-28 00:32:30,637 :INFO : test_login_001 :******************test_login_001 Execution Completed **************
